@@ -32,7 +32,7 @@ namespace BucStop.Controllers
             return View();
         }
 
-        //Takes the user to the privacy policy page.
+        //Takes the user to the about policy page.
         public IActionResult Privacy()
         {
             return View();
